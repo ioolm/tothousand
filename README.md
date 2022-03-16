@@ -14,7 +14,9 @@ npm i --save tothousand
 #### 使用说明
 
 1.  import tothousand from 'tothousand'
-2.  xxxx
+2.  接收参数：
+    num：要转化为千分位的金额
+    isnone：如果是空数字，输出内容，默认：'-'
 3.  xxxx
 
 #### 参与贡献
