@@ -8,13 +8,11 @@ Software architecture description
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+npm i --save tothousand
 
 #### Instructions
 
-1.  xxxx
+1.  import tothousand from 'tothousand'
 2.  xxxx
 3.  xxxx
 
